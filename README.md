@@ -143,10 +143,11 @@ while True:
 client.close()
 ```
 
+
+
+
 ## OUTPUT
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 112553" src="https://github.com/user-attachments/assets/d9d1a58c-8b22-4b7b-a232-d6fd3571cc54" />
-
-
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
